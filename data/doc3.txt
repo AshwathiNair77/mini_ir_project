@@ -1,0 +1,2 @@
+Search algorithms rank documents based on relevance to the query.
+Inverted index is a key data structure used in search engines.
