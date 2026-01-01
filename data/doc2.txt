@@ -1,0 +1,2 @@
+Python is a popular programming language for machine learning and data science.
+Building a mini search engine is a good way to learn information retrieval.
